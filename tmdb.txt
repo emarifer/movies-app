@@ -1,0 +1,9 @@
+// EXAMPLES OF REQUESTS TO ENDPOINTS IN TMDB:
+
+https://api.themoviedb.org/3/movie/now_playing?api_key=
+
+https://api.themoviedb.org/3/movie/now_playing?api_key=1865f43a0549ca50d341dd9ab8b29f49&language=es-ES&page=1
+
+https://api.themoviedb.org/3/movie/popular?api_key=1865f43a0549ca50d341dd9ab8b29f49&language=es-ES&page=1
+
+https://api.themoviedb.org/3/search/movie?api_key=1865f43a0549ca50d341dd9ab8b29f49&language=es-ES&page=1&include_adult=false&query=batman
